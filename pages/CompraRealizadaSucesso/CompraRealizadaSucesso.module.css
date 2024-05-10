@@ -1,0 +1,26 @@
+.cardCompraRealizadaSucesso{
+    text-align: center;
+    margin: 2rem auto;
+}
+
+.imagemCompraSucesso{
+    margin: 0 auto;
+    width: 300px;
+}
+
+.titulo{
+    color: green;
+}
+
+.texto{
+    margin-bottom: 1rem;
+}
+
+.btnAreaUsuario{
+    margin-top: 1rem;
+    background-color: #EB9B00;
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+
+}

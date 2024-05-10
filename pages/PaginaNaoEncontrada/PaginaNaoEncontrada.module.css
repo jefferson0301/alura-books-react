@@ -1,0 +1,27 @@
+.cardPrincipal{
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.titulo{
+    color: #EB9B00;
+    font-weight: 700;
+}
+
+.mensagem{
+    color: #326589;
+    margin: 1rem 0;
+    font-weight: 700;
+}
+
+.btnVoltar{
+    font-size: 1rem;
+    text-decoration: none;
+    background-color: #EB9B00;
+    color: white;
+    width: Fixed (169px)px;
+    height: Hug (62px)px;
+    padding: 12px 16px 12px 16px;
+    gap: 10px;
+    opacity: 0px;
+}
