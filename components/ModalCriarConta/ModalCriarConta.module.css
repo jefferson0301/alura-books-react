@@ -1,0 +1,48 @@
+.backgrondModal{
+   position: fixed;
+    z-index: 1000 ;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    
+    background-color: rgba(0,0,0, 0.7 );
+   
+}
+
+.cardCriarConta{
+    background-color: white;
+    position: fixed;
+    z-index: 1000 ;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 1rem;
+    border-radius: 25px;
+}
+
+.titulo{
+    color: #EB9B00;
+}
+
+.btnFechar{
+    background: transparent;
+    border: none;
+}
+
+.cardSuperior{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.input{
+    margin: 0.5rem 0;
+    height: 1.5rem;
+    width: 100%;
+    border-radius: 25px;
+}
+
+.ultimoItem{
+    margin-bottom: 0.5rem;
+}

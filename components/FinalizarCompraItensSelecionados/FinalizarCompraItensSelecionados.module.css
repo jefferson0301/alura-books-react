@@ -1,0 +1,10 @@
+.cardItensSelecionados{
+    width: 80%;
+    margin: 1rem auto;
+}
+
+.cardCupomDescontoETotalCompra{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

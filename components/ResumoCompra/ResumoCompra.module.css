@@ -1,0 +1,12 @@
+.cardResumoCompra{
+    width: 30%;
+}
+
+.titulo{
+    color: #EB9B00;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+}

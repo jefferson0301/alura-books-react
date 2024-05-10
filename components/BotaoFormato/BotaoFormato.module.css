@@ -1,0 +1,41 @@
+.cardBotao{
+    color: #EB9B00;
+    border: 1px solid #EB9B00;
+    width: Fill (193.67px)px;
+    height: Hug (88px)px;
+    padding: 8px 0px 8px 0px;
+    gap: 8px;
+    border-radius: 8px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    text-align: center;
+    padding: 0.5rem 1rem;
+}
+
+.titulo{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: center;
+
+}
+
+.valor{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+.formatos{
+    color: black;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: center;
+
+}

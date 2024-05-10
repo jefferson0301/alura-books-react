@@ -1,0 +1,122 @@
+.cardVenda{
+    width: 100%;
+    margin: 0 auto;
+    min-height: 100vh;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EBECEE;
+    gap: 3rem;
+}
+
+.carrousel{
+    width: 50%;
+    cursor: grab; /* cursor vira uma mãozinha */
+    overflow: hidden; /*O que passar de 900px vai ser esscondico*/
+    background-color: white;
+    margin-left: 2rem;
+}
+
+.inner{
+    display: flex;
+}
+
+.item{
+    min-height: 150px;
+    min-width: 300px;
+    padding: 14px;
+}
+
+.item img{
+    width: 80%;
+    height: 90%;
+    border-radius: 12px;
+    pointer-events: none;
+}
+
+.titulo{
+    color: orange;
+    text-align: center;
+}
+
+.sobreLivro{
+    padding: 3%;
+    width: 50%;
+    height: 100%;
+    background-color: white;
+    font-size: 1.5rem ;
+    border-radius: 15px;
+    margin-right: 2rem;
+}
+
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tituloLivro{
+    margin-top: 1rem ;
+    font-family: Poppins;
+    font-size: 1.3rem;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    color: #326589;
+}
+
+.descricaoLivro{
+    margin: 1rem 0 ;
+    font-family: Poppins;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+}
+
+.autorLivro{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+}
+
+.cardCompras{
+    width: 100%;
+    margin-top: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.descricaoPreco{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+}
+
+.preco{
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: left;
+    color: #326589;
+}
+
+.btnComprar{
+    font-size: 1rem;
+    text-decoration: none;
+    background-color: #EB9B00;
+    color: white;
+    width: Fixed (169px)px;
+    height: Hug (62px)px;
+    padding: 16px 24px 16px 24px;
+    gap: 10px;
+    opacity: 0px;
+}
+

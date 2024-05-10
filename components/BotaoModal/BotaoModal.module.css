@@ -1,0 +1,14 @@
+.botao{
+    text-decoration: none;
+    background-color: #EB9B00;
+    color: white;
+    width: Fixed (128px)px;
+    height: Hug (40px)px;
+    padding: 8px 16px 8px 16px;
+    gap: 10px;
+    opacity: 0px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+}

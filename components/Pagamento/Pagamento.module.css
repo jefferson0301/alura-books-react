@@ -1,0 +1,58 @@
+.titulo{
+    color: #EB9B00;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+}
+
+.subTitulo{
+    color: #002F52;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 25.5px;
+    text-align: left;
+}
+
+.cardFormaPagamento, .cardDadosEnvio{
+    margin-top: 1rem;
+}
+
+.paypalOuPagSeguro{
+    margin: 0.5rem 0;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.paypalOuPagSeguroItem{
+    display: flex;
+    gap: 0.25rem;
+}
+
+.cardInformcoesComprador, .cardInformcoesEnvio{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.informcoesComprador, .informcoesEnvio{
+    margin: 1rem 0;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.linkAlterar{
+    color: #002F52;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}

@@ -1,0 +1,22 @@
+.botaoCriarConta{
+   
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+
+    color: #EB9B00;
+    background-color: transparent;
+    width: Fixed (169px)px;
+    height: Hug (62px)px;
+    top: 296px;
+    left: 106px;
+    padding: 16px 24px 16px 24px;
+    gap: 10px;
+    border: 2px #EB9B00 solid;
+    opacity: 0px;
+}
+
+.botaoCriarConta:hover{
+    border-color: #B87900 ;
+} 

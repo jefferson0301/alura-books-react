@@ -1,0 +1,25 @@
+.titulo{
+    margin-top: 1rem;
+    text-align: center;
+    color: #EB9B00;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.cardLivrosUltimasLeituras{
+    margin: 0.5rem 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.todosEbooks{
+    width: 90%;
+    margin: 0.5rem 5%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1.5rem
+}

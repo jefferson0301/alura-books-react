@@ -1,0 +1,21 @@
+.botaoLogin{
+    
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+
+    color: white;
+    background-color: #EB9B00;
+    width: Fixed (169px)px;
+    height: Hug (62px)px;
+    top: 216px;
+    left: 106px;
+    padding: 16px 24px 16px 24px;
+    gap: 10px;
+    opacity: 0px;
+}
+
+.botaoLogin:hover{
+    background-color: #B87900;
+}

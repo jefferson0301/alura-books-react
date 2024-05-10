@@ -1,0 +1,37 @@
+.cardFinalizarCompra{
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    gap: 1rem;
+}
+
+.txtTotalCompra{
+    color: #EB9B00;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+}
+
+.valor{
+    color: #002F52;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: right;
+
+}
+
+.btnFinalizarCompra{
+    background-color: #EB9B00;
+    color: white;
+    text-decoration: none;
+    width: Fixed (244px)px;
+    height: Hug (62px)px;
+    padding: 16px 24px 16px 24px;
+    gap: 10px;
+    opacity: 0px;
+}

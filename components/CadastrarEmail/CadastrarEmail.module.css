@@ -1,0 +1,36 @@
+
+.cardCadastrarEmail{
+    padding: 2rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.titulo{
+    color: #002F52;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+}
+
+.texto{    
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: left;
+}
+
+.inputCadastrarEmail{
+    width: Fixed (349px)px;
+    height: Fixed (44px)px;
+    top: 1928px;
+    left: 902px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 24px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+}

@@ -1,0 +1,64 @@
+.container__banner{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    /* background-image: url("../../../public/assets/banner-img-direita.svg")  no-repeat; */
+    background: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%); 
+    /* background: #002F52; */
+    height: 200px;
+}
+
+.container__busca{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container__busca__titulo{
+    color: white;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.container__busca__titulo__secundario{
+    color: white;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.container__busca__campo__pequisa{ 
+    margin-top: 0.5rem;
+    background-color: transparent;
+    font-size: 0.7em;
+    border: 1px solid white;
+    color: white;
+    border-radius: 24px;
+    padding: 1em;
+    width: 400px;
+}
+
+.container__busca__campo__pequisa::placeholder{
+    
+    
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    background: url("../../imagens/icones/lupa.svg") no-repeat; 
+    background-position: 4em;
+    
+}

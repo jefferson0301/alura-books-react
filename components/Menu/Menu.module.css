@@ -1,0 +1,30 @@
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2%;
+    
+}
+
+.menu__esquerda,
+.menu__direita{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 1.5rem;
+}
+
+.menu__item{
+    list-style: none;
+    text-decoration: none;
+    color: #000000;
+}
+
+.menu__item__link{
+    text-decoration: none;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+

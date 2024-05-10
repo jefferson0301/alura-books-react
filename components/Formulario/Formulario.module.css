@@ -1,0 +1,32 @@
+.cardFormulario{
+    margin: 2rem auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo{
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 39px;
+    text-align: left;
+    color: #EB9B00;
+}   
+
+.subTitulo{
+    margin-top: 1rem;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 25.5px;
+    text-align: left;
+    color: #002F52;
+}
+
+.cardDoisCampos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+}

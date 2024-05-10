@@ -1,0 +1,62 @@
+.container__principal{
+   text-align: center;
+}
+
+.cardLeveTambem{
+    margin: 0 0 0 17%;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo{
+    color: #002F52;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: left;
+}
+
+.descricao{
+    margin-top: 0.5rem;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.autor{
+    margin-top: 0.5rem;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+}
+
+.cardPreco{
+    margin: 1rem 0 0.5rem 0;
+    
+}
+
+.preco{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: gray;    
+}
+
+.precoFinal{
+    margin-left: 0.5rem ;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 24px;
+    text-align: left;
+    color: #EB9B00;
+}
